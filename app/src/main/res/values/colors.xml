@@ -1,0 +1,12 @@
+<resources>
+    <color name="ink">#17212B</color>
+    <color name="muted_ink">#64717D</color>
+    <color name="cream">#F7F6F2</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="line">#E5E8E9</color>
+    <color name="teal">#006B67</color>
+    <color name="teal_dark">#004D4A</color>
+    <color name="teal_pale">#D9F1ED</color>
+    <color name="amber">#F0A94B</color>
+    <color name="danger">#B83A45</color>
+</resources>
